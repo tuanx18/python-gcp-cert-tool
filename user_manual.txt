@@ -1,0 +1,112 @@
+GCP Quiz Application BETA 2024. 
+©2024 Tuanx18 Corporation. All Rights Reserved
+
+Overview:
+Welcome to the GCP Quiz Application BETA 2024! This application is designed to help you customize and take quizzes related to Google Cloud Platform (GCP). Whether you are studying for exams or testing your knowledge, this application provides an interactive and personalized learning experience.
+
+Table of Contents:
+Installation:
+Downloading and installing the program.
+System requirements.
+
+Getting Started:
+Launching the application.
+Main menu options.
+
+Exam Customization:
+Customizing quizzes based on your preferences.
+
+Taking a Quiz:
+Answering questions and receiving feedback.
+
+User Feedback:
+Understanding the feedback provided during and after quizzes.
+
+Troubleshooting:
+Common issues and solutions.
+
+Contact Information:
+How to reach out for support or inquiries.
+
+Version History:
+Information on updates and changes.
+
+-------------------------------------------------------------------------------------------
+
+1. Installation:
+
+Downloading and Installing the Program:
+Visit github.com/tuanx18 to download the program files.
+Extract the downloaded files to a location of your choice.
+Run the executable file to install the application.
+System Requirements:
+
+Operating System
+Windows 7 or later
+macOS 10.10 or later
+Linux distribution with GTK 3.4 or higher
+
+Processor:
+1 GHz or faster processor
+RAM (Memory):
+512 MB RAM
+
+Storage:
+50 MB of available hard disk space
+
+Display:
+1024x768 screen resolution or higher
+
+2. Getting Started:
+
+Launching the Application:
+Double-click on the application's executable file.
+The main menu will appear, providing access to various features.
+
+Main Menu Options:
+Start Quiz Generator: Customize and take quizzes.
+Practice Document: Explore practice materials (feature not available in the BETA version).
+Instruction / User Manual: Access detailed instructions on using the program.
+Quit: Exit the application.
+
+3. Exam Customization:
+
+Click on "Start Quiz Generator" in the main menu.
+Choose the chapters and customize the exam length.
+Set time and result modes according to your preferences.
+Click "Continue to Quiz" to start the quiz with your chosen settings.
+
+4. Taking a Quiz:
+
+Answer each question by selecting the appropriate choices.
+Click "Submit Answer" to check correctness and receive feedback.
+Navigate through questions using "Next Question."
+View results at the end of the quiz.
+
+5. User Feedback:
+
+Instant feedback on each question.
+Overall results displayed at the end of the quiz.
+Feedback includes correctness, correct answers, and additional details.
+
+6. Troubleshooting:
+
+If the program freezes, restart the application.
+Ensure an internet connection for additional features (if applicable).
+Check for updates on our official website.
+
+7. Contact Information:
+For support and inquiries, contact me at anhtuanhoang2001@gmail.com.
+
+8. Version History:
+Version 5.401 (Current): BETA release with enhanced quiz customization features.
+Version 5.2: Quiz Enhancement Update with Interactive Practice Mode and Expanded Quiz Bank.
+Version 5.0.1: Quick Fix Patch addressing critical bugs and typos.
+Version 4.5: User Interface Overhaul with Dark Mode and Customizable Themes.
+Version 4.0: Mobile Compatibility Update with Cross-Platform Support and Offline Mode.
+Version 3.2: Social Integration with Shareable Results and Scenario-Based Quizzes.
+Version 3.0: Multimedia Integration with Interactive Images, Videos, and Audio Questions.
+Version 2.5: Gamification Update with Quiz Challenges, Leaderboards, and Rewards.
+Version 2.0: Accessibility and Inclusivity with Screen Reader Support and Multilingualism.
+Version 1.0: Initial Release with Basic Quiz Functionalities.
+

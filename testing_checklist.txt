@@ -1,0 +1,17 @@
+Test cases checklist
+
+Pass - Question with a very long text
+Pass - Question with very long answers
+Pass - Question with a very long reasoning
+Pass - Question with a Page number
+Pass - Question without a Page number
+Pass - Question with multiple correct answer
+Pass - Question with 1 correct answer in a multiple-selecting question
+Pass - Question with ALL correct answer in a multiple-selecting question
+Pass - Question with no correct answer
+Pass - Question with all data types possible in answer (Not including STRUCT)
+Pass - Question with missing Random Options
+Pass - Question with only A and B as options
+
+Features:
+Added page, question ID
